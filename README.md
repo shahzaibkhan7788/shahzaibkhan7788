@@ -1,6 +1,40 @@
-I am  dedicated individual with an insatiable curiosity for machine learning, boasts a robust 
-foundation in coding and programming. Currently immersed in the realm of machine learning projects,my Github bio 
-reflects a passion for continuous learning, an unwavering commitment to innovation, and a keen desire to explore new ideas. Eager 
-to showcase a diverse skill set,  approaches each project with enthusiasm, demonstrating a profound interest in the 
-intricacies of machine learning. My GitHub profile is a testament of my dynamic journey, filled with the pursuit of knowledge 
-and a commitment to contributing meaningfully to the field of artificial intelligence.
+<!-- Profile Header -->
+<h1 align="center">Hi 👋, I'm Shahzaib</h1>
+<h3 align="center">Computer & Information Science Student | AI & ML Enthusiast | Researcher | Developer</h3>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280">
+</p>
+
+---
+
+### 👨‍🎓 About Me
+I’m currently a student at **PIEAS University**, pursuing my degree in **Computer and Information Science**. I have a growing interest and practical experience in **Artificial Intelligence**, **Machine Learning**, and **Computer Vision**. I'm actively working on research in **Critical Heat Flux Prediction** and have implemented **regression models**, **autoencoders**, and **hybrid techniques** for performance optimization.
+
+🔭 **Current Focus**:  
+- Building Machine Learning Models for Scientific Research  
+- Enhancing Predictive Accuracy through Augmentation and Hybrid Models  
+- Preparing my **first research paper** under the guidance of **Dr. Asifullah**
+
+📫 **How to reach me**: shahzaib.official.cs@gmail.com
+
+🌐 **Portfolio/Project Highlights**:
+- Critical Heat Flux Prediction using Autoencoders and Decision Trees  
+- Visualization Techniques for Experimental vs. Predicted Data  
+- Working with large datasets (~10,000 samples) and regression models  
+
+---
+
+### 📌 Connect with Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/your-linkedin" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
+  <a href="mailto:shahzaib.official.cs@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+</p>
+
+---
+
+### 🛠️ Languages & Tools
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6)
