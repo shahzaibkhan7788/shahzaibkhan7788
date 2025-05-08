@@ -16,7 +16,7 @@ I’m currently a student at **PIEAS University**, pursuing my degree in **Compu
 - Enhancing Predictive Accuracy through Augmentation and Hybrid Models  
 - Preparing my **first research paper** under the guidance of **Dr. Asifullah**
 
-📫 **How to reach me**: shahzaib.official.cs@gmail.com
+📫 **How to reach me**: shahzaibkhan.career@gmail.com
 
 🌐 **Portfolio/Project Highlights**:
 - Critical Heat Flux Prediction using Autoencoders and Decision Trees  
