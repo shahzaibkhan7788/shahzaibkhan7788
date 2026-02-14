@@ -9,20 +9,21 @@
 ---
 
 ### 👨‍🎓 About Me
-I am a **dynamic BSCIS student**, constantly elevating skills and fueling passion for **machine learning**.  
-A dedicated explorer on **GitHub**, focused on real-world research, innovation, and AI model building.
+I am a **dynamic BSCIS student**, passionate about **Artificial Intelligence, Machine Learning, and real-world research applications**.  
+I explore and develop **AI models**, focusing on **data-driven solutions, predictive modeling, and automation systems**.
 
 🔭 **Current Focus**:  
-- Advanced Predictive Modeling in Scientific Research  
-- Autoencoders + Decision Trees for Regression Tasks  
-- Publishing my **first research paper** with guidance from **Dr. Asifullah**
+- Real-time AI applications (surveillance, monitoring, and automation)  
+- Hybrid AI models: Autoencoders + Decision Trees for regression tasks  
+- Publishing research under the guidance of **Dr. Asifullah**  
 
-📫 **Email**: shahzaibkhan.career@gmail.com
+📫 **Email**: shahzaibkhan.career@gmail.com  
+🌐 **Portfolio**: [shahzaibkhan7788.github.io](https://shahzaibkhan7788.github.io/)
 
-🌐 **Project Highlights**:
-- CHF Prediction Using Hybrid AI Models  
-- Visual Error Deviation & Comparative Model Analysis  
-- Regression on Scientific Data (~10,000 Samples)
+🌐 **Key Projects**:
+- **Real-time Skeleton-Based Surveillance** – real-time skeleton tracking for intelligent monitoring  
+- **Critical Heat Flux Prediction** – hybrid AI models with Autoencoders and Decision Trees  
+- **Regression & Model Analysis** – visual error deviation and comparative studies (~10,000 scientific samples)
 
 ---
 
@@ -31,6 +32,7 @@ A dedicated explorer on **GitHub**, focused on real-world research, innovation, 
 <p align="left">
   <a href="https://www.linkedin.com/in/shahzaib-khan-35435b285" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
   <a href="mailto:shahzaibkhan.career@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="https://shahzaibkhan7788.github.io/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio"/></a>
 </p>
 
 ---
@@ -44,34 +46,46 @@ A dedicated explorer on **GitHub**, focused on real-world research, innovation, 
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat-square)
 ![Scikit-learn](https://img.shields.io/badge/-Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 
 ---
 
 ### 🧠 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=vision-friendly-dark" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shahzaibkhan7788&show_icons=true&theme=vision-friendly-dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahzaibkhan7788&layout=compact&theme=vision-friendly-dark" />
 </p>
 
 ---
 
-### 📌 Pinned Project
-🔗 **AI-Powered Research Project**  
-[🔬 AI-enhanced Critical Heat Flux Prediction](#)
+### 📌 Featured Projects
 
-> Leveraging hybrid models for accurate CHF prediction and thermal-fluid research.
+🔗 **Real-time Skeleton-Based Surveillance**  
+[GitHub Repo](https://github.com/shahzaibkhan7788/Real-time-Skeleton-Based-Surveillance)
+
+> Real-time skeleton tracking system for surveillance and monitoring. Uses AI-based detection and OpenCV for activity analysis.
+
+🔗 **AI-enhanced Critical Heat Flux Prediction**  
+[GitHub Repo](https://github.com/shahzaibkhan7788/Adaptive_Reasoning_GitHub_AI_Agent)
+
+> Hybrid AI models combining Autoencoders and Decision Trees for accurate CHF prediction. Includes visual error deviation and comparative model analysis (~10,000 samples).
+
+🔗 **AI Trading Feature Explorer**  
+[GitHub Repo](https://github.com/shahzaibkhan7788/Adaptive_Reasoning_GitHub_AI_Agent)  
+
+> Implements deep learning (LSTM) and classical ML models for intelligent web-based trading features. Achieved 4th position in an AI hackathon.
 
 ---
 
 ### 📅 GitHub Activity
 
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=your-github-username&theme=react-dark)
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=shahzaibkhan7788&theme=react-dark)
 
 ---
 
 ### 🚀 Visitor Counter
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/your-github-username/count.svg" />
+  <img src="https://profile-counter.glitch.me/shahzaibkhan7788/count.svg" />
 </p>
